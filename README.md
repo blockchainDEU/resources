@@ -35,3 +35,27 @@ Aziz Sancar
 |Smart Contract Security| *Akıllı kontrat güvenliği sağlama, ilkeler* | Saeid Ghasemshirazi | https://github.com/saeidshirazi/Awesome-Smart-Contract-Security |🟧 Orta-İleri|
 |Where X=Solidity | *Solidity ve Remix ide için cheat sheet* | Nemil Dalal | 	https://learnxinyminutes.com/docs/solidity/ | 🟩 Başlangıç-Orta|
 |How to Secure your Smart Contract| *Akıllı Kontrat güvenliği sağlama* |Georgios Konstantopoulos | https://medium.com/loom-network/how-to-secure-your-smart-contracts-6-solidity-vulnerabilities-and-how-to-avoid-them-part-1-c33048d4d17d | 🟧 Orta-İleri|
+
+
+
+/* 
+@@@@@@@@@@@@@@@@@@ @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@                        @@@@@@@@@@@@@@@@@@@@                   @@@@@@@@
+@@@@@@                         @@@@@@@@@@@@@@@@@@@                         @@@@@
+@@@@                         @@@@@@@@@@@@@    @@                             @@@
+@@                        @@@@@@@@@@@@@     @@                                 @
+@              @@@@@@@@@@@@@@@@@@@@@       @@              @@@@@@@              
+@            @@@@@@@@@@@@@@@@@@@@        @@@            @@@@@@@@@@@@            
+            @@@@@@@@@@@@@@@@@@          @@           @@@@@@@@@@@@@@@@           
+@           @@@@@@@@@@@@@@@           @@@         @@@@@@@@@@@@@@@@@@@           
+@            @@@@@@@@@@@             @@        @@@@@@@@@@@@@@@@@@@@@            
+@@                                 @@@      @@@@@@@@@@@@                       @
+@@@                               @@@     @@@@@@@@@@@@                        @@
+@@@@@                           @@@    @@@@@@@@@@@@                         @@@@
+@@@@@@@                      @@@@@@@@@@@@@@@@@@@@                        @@@@@@@
+@@@@@@@@@@@@             @@@@@@@@@@@@@@@@@@@@@@@                     @@@@@@@@@@@
+
+
+
+
+*/
